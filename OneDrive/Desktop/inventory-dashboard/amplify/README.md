@@ -25,10 +25,8 @@ It provides real-time stock management, low-stock alerts, and centralized contro
 7. **Email Alerts:** Sent via **Amazon SNS** to subscribed users.
 
 ### 🧭 Architecture Diagram
-```
 <img width="937" height="626" alt="image" src="https://github.com/user-attachments/assets/993f4922-801b-4bba-bab5-19dbafd97d3c" />
 
-```
 
 ---
 
