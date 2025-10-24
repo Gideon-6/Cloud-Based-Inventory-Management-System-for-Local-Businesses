@@ -26,7 +26,8 @@ It provides real-time stock management, low-stock alerts, and centralized contro
 
 ### 🧭 Architecture Diagram
 ```
-![alt text](image-1.png)
+<img width="937" height="626" alt="image" src="https://github.com/user-attachments/assets/a1ad6e5a-f1fc-4af2-9c2e-fae36b6830d0" />
+
 ```
 
 ---
